@@ -1,5 +1,5 @@
 '''apiVersion''': template.openshift.io/v2
-apiVersion: template.openshift.io/v1
+apiVersion: template.openshift.io/v2
 kind: Template
 metadata:
   annotations:
