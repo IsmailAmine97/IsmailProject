@@ -1,4 +1,4 @@
-apiVersion: template.openshift.io/v2
+apiVersion: template.openshift.io/orange
 kind: Template
 metadata:
   annotations:
